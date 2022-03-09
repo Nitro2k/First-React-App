@@ -1,6 +1,6 @@
 ## Available Scripts
-run json server first before npm run start
-npx json-server --watch data/db.json --port 8000
+run json server first before `npm run start` .\
+`npx json-server --watch data/db.json --port 8000`
 In the project directory, you can run:
 
 ### `npm start`
